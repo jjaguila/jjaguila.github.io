@@ -2,20 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects
 
-Analyzing the Impact of Social Inequality on COVID-19 Vaccination Rates in the US](/sample_
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Analyzing the Impact of Social Inequality on COVID-19 Vaccination Rates in the US](/pdf/DS3000FinalProject.pdf)
+
+[//]: # (<img src="images/dummy_thumbnail.jpg?raw=true"/>)
 
 Our team worked on analyzing how social inequality impacts COVID-19 vaccination rates in the US. By collecting data from multiple sources and testing 3 different models, we were able to determine that the Random Forest Regressor was the most accurate model to predict vaccination rates. We discussed how these findings can be used to provide better care to specific communities.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+**Rock Paper Scissors League**
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[//]: # (<img src="images/dummy_thumbnail.jpg?raw=true"/>)
+
+Our team created a statistics website for a hypothetical Rock Paper Scissors League. This product included developing a relational database, making a database in MySQL, using Python Flask as the backend, and AppSmith for the front end. Gained experience with Docker containers and Mockaroo for mock data.
 
 ---
 
