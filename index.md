@@ -1,5 +1,4 @@
 ## Portfolio
-
 ---
 
 ### Data Science Projects
