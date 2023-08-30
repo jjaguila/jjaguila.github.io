@@ -19,17 +19,12 @@ Our team worked on analyzing how social inequality impacts COVID-19 vaccination 
 Our team created a statistics website for a hypothetical Rock Paper Scissors League. This product included developing a relational database, making a database in MySQL, using Python Flask as the backend, and AppSmith for the front end. Gained experience with Docker containers and Mockaroo for mock data.
 
 ---
-<!---
-### Category Name 2
+### Research Projets
+**Development of a reactive oxygen species (ROS) biosensor to monitor kidney and liver damage in a zebrafish model of diabetes** 
+- Worked with research mentor in Wells Center for Pediatric Research at the in the Indiana University School of Medicine to analyze transgenic zebrafish to develop ROS biosensor to monitor organ damage in zebrafish model of diabetes. The goal of research was to help aid future development of therapies to prevent diabetic complications
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+  
 ---
 ---
---->
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
