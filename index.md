@@ -31,6 +31,6 @@ Worked with research mentor in Wells Center for Pediatric Research at the Indian
 
 Worked with team to extract DNA of microorganisms and identified various bacteria found on human skin cells and collaborated to synthesize research and present findings to peers and mentors at 44th Annual Minority Introduction to Engineering and Science Final Symposium
 
-[Link to poster](/pdf/MITES_Genomics_-_Poster.pdf)
+[Link to poster](/pdf/MITESGenomics-Poster.pdf)
 
 ---
