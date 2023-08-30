@@ -22,7 +22,15 @@ Our team created a statistics website for a hypothetical Rock Paper Scissors Lea
 
 Worked with research mentor in Wells Center for Pediatric Research at the Indiana University School of Medicine to analyze transgenic zebrafish to develop ROS biosensor to monitor organ damage in zebrafish model of diabetes. The goal of the research was to help aid future development of therapies to prevent diabetic complications
 
+<img src="images/zebrafish.jpg?raw=true"/>
+
 [Link to poster](/pdf/JuanIUZebrafishPoser.pdf)
 
 ---
+**Identifying Bacteria Cultured from the Glabella using 16s rRNA gene**
+
+Worked with team to extract DNA of microorganisms and identified various bacteria found on human skin cells and collaborated to synthesize research and present findings to peers and mentors at 44th Annual Minority Introduction to Engineering and Science Final Symposium
+
+[Link to poster](/pdf/MITES_Genomics_-_Poster.pdf)
+
 ---
