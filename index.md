@@ -17,9 +17,12 @@ Our team worked on analyzing how social inequality impacts COVID-19 vaccination 
 Our team created a statistics website for a hypothetical Rock Paper Scissors League. This product included developing a relational database, making a database in MySQL, using Python Flask as the backend, and AppSmith for the front end. Gained experience with Docker containers and Mockaroo for mock data.
 
 ---
-### Research Projets
+### Research Projects
 **Development of a reactive oxygen species (ROS) biosensor to monitor kidney and liver damage in a zebrafish model of diabetes** 
 
-Worked with research mentor in Wells Center for Pediatric Research at the in the Indiana University School of Medicine to analyze transgenic zebrafish to develop ROS biosensor to monitor organ damage in zebrafish model of diabetes. The goal of research was to help aid future development of therapies to prevent diabetic complications
+Worked with research mentor in Wells Center for Pediatric Research at the Indiana University School of Medicine to analyze transgenic zebrafish to develop ROS biosensor to monitor organ damage in zebrafish model of diabetes. The goal of the research was to help aid future development of therapies to prevent diabetic complications
 
+[Link to poster](/pdf/JuanIUZebrafishPoser.pdf)
+
+---
 ---
